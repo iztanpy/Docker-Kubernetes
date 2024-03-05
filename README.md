@@ -1,12 +1,7 @@
 # CS3219 OTOT Task A2 and A3
-CS3219 OTOT Task A2 is split into 3 parts. A3 is split into 2 parts.
 
-First, clone the repository
+This repository contains my solution to Task A2 and A3. This repo is able to successfully deploy an image with docker and scale with kubernetes. More information and a comprehensive tutorial can be found below, and in the relevant folders listed.
 
-```
-git clone git@github.com:CS3219-AY2223S1/OTOT-A2-A3.git cs3219_otot_taska2_3
-cd cs3219_otot_taska2_3
-```
 
 ## A2 - Introduction to Kubernetes
 
